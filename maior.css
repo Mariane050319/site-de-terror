@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body{
+    margin: 15px;
+    background-image: url(terror2.png);
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+}
